@@ -18,7 +18,6 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: linear-gradient(to right, #43e97a 0%, #38f9d7 100%);
 }
 
 .container {
@@ -40,13 +39,11 @@ body {
 .colorbox {
   width: 100px;
   height: 100px;
-  background-color: #43e97b;
   border-radius: 50%;
   transition: background-color 0.2s ease-out;
 }
 
 .btn {
-  border: 2px solid #43e97b;
   border-radius: 5px;
   background-color: transparent;
   color: white;
